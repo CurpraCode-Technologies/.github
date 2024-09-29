@@ -16,7 +16,7 @@ At **Curpracode Technologies**, we specialize in providing bespoke software solu
 - Cloud Solutions & DevOps
 - UI/UX Design
 - Open source
-- Coding research work
+- Coding research works
 
 With a focus on quality, scalability, and security, we bring your vision to life with precision and expertise.
 
