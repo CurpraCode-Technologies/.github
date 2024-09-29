@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-Welcome to **Curpracode Technologies**! Our cutting-edge software development studio is committed to transforming your ideas into innovative digital solutions. We aim to deliver high-performance web, mobile, and custom software that drives growth and success for businesses worldwide.
+Welcome to **CurpraCode Technologies**! Our cutting-edge software development studio is committed to transforming your ideas into innovative digital solutions. We aim to deliver high-performance web, mobile, and custom software that drives growth and success for businesses worldwide.
 
 ## 🙋‍♀️ About Us
 
